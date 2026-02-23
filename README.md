@@ -9,9 +9,8 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiiiiiiiii;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=50">
 </p>
----
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/tasos-fasoulas" target="blank">
@@ -48,7 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Computer Science & Algorithms
-![Algorithms](https://img.shields.io/badge/Algorithms-FCBA03?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA)
+![Algorithms](https://img.shields.io/badge/Algorithms-1E42AD?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-FF5733?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-2ECC71?style=for-the-badge)
