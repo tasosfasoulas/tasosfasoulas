@@ -1,9 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP8qvVdz6qI4cY/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tasos</h1>
 <h3 align="center">🚀 Developer | Problem Solver | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
 ---
 
