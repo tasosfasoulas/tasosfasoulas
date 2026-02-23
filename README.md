@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150" style="vertical-align:middle;"/> 
-  <span style="display:inline-block; vertical-align:middle; font-size:36px; font-weight:bold;">Hi 👋, I'm YOUR_NAME</span> 
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150" style="vertical-align:middle;"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Tasos</h1>
-<h3 align="center">🚀 Developer | Problem Solver | Tech Explorer</h3>
-
+<table align="center">
+<tr>
+<td width="150">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150"/>
+</td>
+<td align="center">
+  <h1>Hi 👋, I'm Tasos</h1>
+  <h3>💻 Software Engineer | Cloud Enthusiast | Web & Systems Developer</h3>
+</td>
+<td width="150">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150"/>
+</td>
+</tr>
+</table>
 
 ---
 
